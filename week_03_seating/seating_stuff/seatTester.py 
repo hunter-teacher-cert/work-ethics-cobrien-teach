@@ -1,0 +1,3 @@
+fred = Passenger("Fred","middle")
+
+print(fred.getName())
